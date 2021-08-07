@@ -2,7 +2,7 @@
     
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 200%;
 }
 #portada img{
     width: 100%;
@@ -11,10 +11,10 @@
 
 #portada .contenedor{
     position: absolute;
-    top:50%;
-    left: 50%;
-    transform: translateX(-50%)translateY(-50%);
-    text-align: center;
+    top:100%;
+    left: 100%;
+    transform: translateX(-125%)translateY(-150%);
+    text-align:center;
 }
 #portada .contenedor p{
     font-size:  15px;

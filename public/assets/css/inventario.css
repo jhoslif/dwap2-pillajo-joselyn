@@ -18,11 +18,11 @@
 #inventario img{
     width: 100%;
     max-width: 280px;
-    height: 100px;
+    height: 200px;
     float: left;
 }
 #inventario article p{
-    font-size: 8px;
+    font-size: 18px;
 }
 #inventario a{
     position: relative;
@@ -30,7 +30,7 @@
     margin: 5px;
     padding: 5px;
     color:#1D193B;
-    font-size:  12px;
+    font-size:  15px;
     text-decoration: none;
     overflow: hidden;
     background-color:#CAA9DB ;

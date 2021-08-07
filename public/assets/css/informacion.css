@@ -1,8 +1,9 @@
 #informacion{
-    height: 200px;
+    height: 275px;
     margin-top: 25px;
     position: relative;
     background-color:#D2CEEA;
+    font-size: 20px;
 
 }
 
@@ -17,15 +18,20 @@
 }
 
  #informacion .contenedor{
+    
+    
     position:absolute;
      width: 100%;
      max-width: 1000px;
-     height: 250px;
+     height: 275px;
      margin: auto;
      padding: 20px 20px;
-     font-size:  12px;
+     font-size:  18px;
      text-align: left;
      background:#FFB9B9;
+     margin-top: 25px;
+    position: relative;
+    background-color:#D2CEEA;
      
  }
 
@@ -35,7 +41,7 @@
     margin: 5px;
     padding: 5px;
     color:#1D193B;
-    font-size:  12px;
+    font-size:  15px;
     text-decoration: none;
     overflow: hidden;
     background-color:#CAA9DB ;
